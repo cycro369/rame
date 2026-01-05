@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Flask-Migrate
+openai-whisper
+pydub
+librosa
+soundfile
+numpy
+scipy
+ffmpeg-python

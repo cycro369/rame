@@ -1,0 +1,19 @@
+﻿# Virtual Environment
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.pyc
+
+# Flask
+instance/
+.env
+
+# Database
+*.db
+
+# Uploads
+uploads/
